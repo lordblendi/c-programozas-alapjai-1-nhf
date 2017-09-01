@@ -1,6 +1,6 @@
-# Programozás alapjai 1 nagyházi
+# Szoftver laboratórium 1 nagyházi
 
-Ezt a nagyházit a Programozás alapjai 1 tantárgyhoz készítettem a BME-s tanulmányaim során a 2010/2011/1. félévben.
+Ezt a nagyházit a Szoftver laboratórium 1 tantárgyhoz készítettem a BME-s tanulmányaim során a 2010/2011/1. félévben.
 
 ## Feladat
 
